@@ -4,6 +4,8 @@ plugin https://github.com/jdiehl/brackets-less-autocompile (Which can be found i
 into CSS every time you save a less file.
 #install
 - install brackets
+- install Nodejs  ---> https://nodejs.org/en/
+- run this command in command prompt `npm install -g less`
 - add plugin to brackets ---> https://github.com/jdiehl/brackets-less-autocompile
 - restart brackets
 
